@@ -1,1 +1,127 @@
-test
+- id: DOC001
+  titel: "Algemene presentatie werkgroep Stedelijke Vernieuwing IJmond"
+  type: "presentatie"
+  datum: "2025-07-15"
+  bron: "Werkgroep Stedelijke Vernieuwing IJmond"
+  gewicht: "hoog"   # kernreferentie voor projectinstructie en planvorming
+  samenvatting: |
+    Deze presentatie biedt een overzicht van de opgaven en kansen in de IJmond
+    en vormt de basis voor het Plan van Aanpak Stedelijke Vernieuwing.
+    Belangrijkste punten:
+    - Financiële aanleiding via subsidies (o.a. Netten op Zee).
+    - Huidige losse wijkinitiatieven missen integrale aanpak.
+    - Doelen: bewustwording, versterking samenwerking, verbinding met provincie, rijk en EU.
+    - Opgaven: beperkt ontwikkelperspectief, criminaliteit/overlast, gezondheidsachterstanden,
+      verouderde woningvoorraad en versteende openbare ruimte.
+    - Analyse per domein: onderwijs, wonen, economie, fysieke leefomgeving,
+      maatschappelijke voorzieningen, mobiliteit.
+    - Governance: overzicht stakeholders (gemeenten, provincie, rijk, corporaties, bedrijven).
+    - Vervolg: uitvoeringsagenda, pact ondertekenen (2026), investeringsopgave in beeld brengen.
+  thema’s:
+    - sociaal
+    - economisch
+    - fysiek
+    - gezondheid
+    - veiligheid
+    - samenwerking
+  trefwoorden:
+    - IJmond
+    - stedelijke vernieuwing
+    - leefbaarheid
+    - kwetsbare buurten
+    - corporaties
+    - gezondheid
+    - criminaliteit
+    - verstedelijking
+  relevantie: "Hoofdbron voor de analyse van problematiek en doelen in de IJmond; kaderstellend voor de video en alle vervolgdocumenten."
+  link: "20250707_DJ_Presentatie algemeen15-7.pdf"
+- id: DOC002
+  titel: "Verslag werksessie IJmond Samenwerkplek"
+  type: "werksessie"
+  datum: "2025-07-21"
+  bron: "Projectteam Stedelijke Vernieuwing IJmond + Beaumont"
+  gewicht: "middel"
+  samenvatting: |
+    Dit document vat een interactieve werksessie samen waarin stakeholders
+    (gemeenten Beverwijk, Velsen en Heemskerk, samen met partners) de
+    stedelijke vernieuwing in de IJmond hebben verkend.
+    Belangrijkste onderdelen:
+    - Programma: vertrekpunt, opgaven, kernwaarden, keuzes, video en vervolg.
+    - Doelen: bewustwording van integraliteit, urgentie en gezamenlijke
+      verantwoordelijkheid; versterking samenwerking; voorbereiding Plan
+      van Aanpak.
+    - Communicatievraagstukken: kernboodschap, tone of voice, look & feel,
+      naamgeving (diverse opties besproken), en rol van video.
+    - Doelgroepen: gemeenten, projectteam, uitvoerende partijen,
+      rijk/provincie/Europa en inwoners (50.000 mensen in kwetsbare buurten).
+    - Kernwoorden: veilig, veerkracht, samenwerken, leefbaar, integraal,
+      gezamenlijke aanpak.
+    - Video-componenten: mens, harde feiten, locatie, actie; professionals
+      als sprekers om urgentie te onderbouwen.
+    - Vervolg: concept message house, storyboard/voorstel video, richting
+      naamgeving en projectstijl, voorbereiding brede bijeenkomst september.
+  thema’s:
+    - samenwerking
+    - communicatie
+    - participatie
+    - sociaal
+    - fysiek
+    - economisch
+  trefwoorden:
+    - werksessie
+    - kernwaarden
+    - message house
+    - tone of voice
+    - video
+    - stakeholders
+    - IJmondlint
+  relevantie: "Geeft inzicht in procesafspraken, communicatieaanpak en framing van het project. Ondersteunend document voor de uitwerking van video en projectstijl."
+  link: "20250722 IJmond Samenwerkplek.pdf"
+- id: DOC003
+  titel: "Samenvatting werksessie communicatie Projectteam IJmond"
+  type: "werksessie"
+  datum: "2025-07-22"
+  bron: "Projectteam Stedelijke Vernieuwing IJmond + Beaumont Communicatie"
+  gewicht: "middel"
+  samenvatting: |
+    Verslag van een werksessie met het projectteam (gemeenten Velsen, Beverwijk,
+    Heemskerk) en Beaumont Communicatie. Focus lag op de communicatieve
+    vertaling van de stedelijke vernieuwingsopgave.
+    Belangrijkste punten:
+    - Opgave: 13–14 wijken (34 buurten) met gestapelde problematiek; noodzaak
+      voor een integrale, gezamenlijke aanpak onder een koepelverhaal.
+    - Communicatiedoelen: bewustwording, urgentiebesef, gedeeld eigenaarschap.
+      Gedragsdoelen: weten, vinden, doen.
+    - Uitdagingen: balans tussen menselijke verhalen en cijfermatige
+      onderbouwing; zorgvuldig taalgebruik (termen als "stedelijke vernieuwing"
+      roepen verschillende associaties op).
+    - Projectteamrol: geen uitvoerder, maar verbinder, aanjager en facilitator;
+      gepositioneerd als regisseur van samenwerking.
+    - Kernwoorden: gestapelde problematiek, IJmondiaal, integraal, verbinding,
+      veerkracht, leefbaar, slagkracht, gezamenlijke aanpak.
+    - Naamgeving: "IJmondlint" is vertrouwd geraakt, maar keuze blijft open.
+    - Video: inzetbaar als strategisch communicatiemiddel; vier elementen
+      voorgesteld (mens, locatie, harde feiten, actie). Discussie over timing en
+      vorm: geloofwaardige verhalen van professionals tegenover terughoudendheid
+      m.b.t. middeleninzet.
+    - Planning: brede bijeenkomst stakeholders (sept 2025), plan van aanpak
+      concept (nov 2025), vaststelling (jan 2026), pactondertekening (Q3 2026).
+  thema’s:
+    - communicatie
+    - samenwerking
+    - participatie
+    - sociaal
+    - economisch
+    - fysiek
+  trefwoorden:
+    - communicatiestrategie
+    - kernboodschap
+    - tone of voice
+    - video
+    - kernwoorden
+    - IJmondlint
+    - plan van aanpak
+  relevantie: "Geeft richting aan communicatiestrategie en rol van video als middel; belangrijk voor framing van project en draagvlak bij stakeholders."
+  link: "20250723 Samenvatting werksessie Projectteam IJmond.pdf"
+
+
