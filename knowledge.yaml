@@ -1,3 +1,82 @@
+
+samenvatting: |
+  De stedelijke vernieuwing in de IJmond richt zich op 35 buurten (ca. 50.000 inwoners) 
+  die al meer dan 20 jaar structureel onvoldoende scoren op leefbaarheid. De problemen 
+  zijn sociaal (armoede, lage inkomens, onderwijsachterstanden), economisch (werkloosheid, 
+  beperkte kansen), fysiek (verouderde woningen, versteende openbare ruimte), en raken ook 
+  gezondheid en veiligheid. 
+  Het project combineert beleid (Plan van Aanpak, message house), strategie (werksessies, 
+  communicatieplannen), productie (script, storyboard, matrix, draaidagschema), en 
+  achtergrond (volksaard, verbinders). 
+  Documenten verschillen in gewicht: DOC012 (Plan van Aanpak) en DOC006–DOC011 
+  (videoproductie en communicatiekapstok) zijn kernbronnen. 
+
+index:
+  - id: DOC001
+    titel: "Algemene presentatie werkgroep"
+    datum: "2025-07-15"
+    gewicht: hoog
+  - id: DOC002
+    titel: "Verslag werksessie Samenwerkplek"
+    datum: "2025-07-21"
+    gewicht: middel
+  - id: DOC003
+    titel: "Samenvatting werksessie communicatie"
+    datum: "2025-07-22"
+    gewicht: middel
+  - id: DOC004
+    titel: "Presentatie bijeenkomst 25 september"
+    datum: "2025-09-25"
+    gewicht: middel
+  - id: DOC005
+    titel: "Uitnodiging brede bijeenkomst"
+    datum: "2025-09-25"
+    gewicht: laag
+  - id: DOC006
+    titel: "Script projectvideo Sterk IJmond"
+    datum: "2025-09-19"
+    gewicht: hoog
+  - id: DOC007
+    titel: "Storyboard projectvideo"
+    datum: "2025-09-19"
+    gewicht: hoog
+  - id: DOC008
+    titel: "Transcriptie interviews (deel 1)"
+    datum: "2025-09-19"
+    gewicht: hoog
+  - id: DOC009
+    titel: "Schema draaidag projectvideo"
+    datum: "2025-09-16"
+    gewicht: hoog
+  - id: DOC010
+    titel: "Concept Message House"
+    datum: "2025-08-27"
+    gewicht: hoog
+  - id: DOC011
+    titel: "Matrix inhoud-afspraken video"
+    datum: "2025-08-26"
+    gewicht: hoog
+  - id: DOC012
+    titel: "Plan van Aanpak Stedelijke Vernieuwing"
+    datum: "2025-07-25"
+    gewicht: zeer hoog
+  - id: DOC013
+    titel: "Sfeer- en aanpaknotitie video"
+    datum: "2025-09-05"
+    gewicht: middel
+  - id: DOC014
+    titel: "Notities overleg video"
+    datum: "2025-08-25"
+    gewicht: laag
+  - id: DOC015
+    titel: "Aantekeningen verbinders"
+    datum: "2025-09-20"
+    gewicht: laag
+  - id: DOC016
+    titel: "Volksaard regio IJmond"
+    datum: "2025-09-20"
+    gewicht: laag
+    
 - id: DOC001
   titel: "Algemene presentatie werkgroep Stedelijke Vernieuwing IJmond"
   type: "presentatie"
@@ -403,6 +482,267 @@
     - Sterk IJmond
   relevantie: "Kernstuk voor de communicatiestrategie en framing van de stedelijke vernieuwing; bepaalt toon, kernboodschap en positionering."
   link: "Concept Message House Stedelijke vernieuwing regio IJmond (1).pdf"
+- id: DOC011
+  titel: "Matrix inhoud-afspraken video Sterk IJmond"
+  type: "productieplanning"
+  datum: "2025-08-26"
+  bron: "Beaumont Communicatie"
+  gewicht: "hoog"
+  samenvatting: |
+    Matrixdocument waarin de inhoud en afspraken voor de projectvideo zijn
+    uitgewerkt, gekoppeld aan de vijf pijlers (gelijke kansen, gezond leven,
+    veilig leven, fijne woning, leefbare wijken).
+    Belangrijkste onderdelen:
+    - Structuur video: intro (script/storyboard), interviews per pijler,
+      afsluiting.
+    - Criteria: spreiding over gemeenten, doelgroepen, leeftijd, afkomst,
+      functies; elk interview behandelt probleem, oplossing, samenwerking,
+      resultaat.
+    - Voorbereiding: samenvatting in 2 quotes per persoon, afspraken over
+      locaties, toestemming (quitclaim), beschikbaarheid.
+    - Voorbeelden ingevuld:
+      • Pijler 1 (gelijke kansen): Melanie Clots (directeur basisschool
+        De Sleutelbloem, Meerestein) – probleem: thuissituatie beïnvloedt
+        concentratie leerlingen; oplossing: samenwerking wijkteams,
+        jeugdzorg, scholen.
+      • Pijler 3 (veilig leven): Martijn Hellingman & Wouter Dekker
+        (wijkagenten, Beverhof) – probleem: zwervers, verslaving,
+        ondermijning; oplossing: structurele opvang, gebruikersruimte,
+        samenwerking gemeente, GGZ/GGD.
+      • Pijler 3 (veilig leven): Ersin Bakır (gemeente Beverwijk) –
+        adviser openbare orde/veiligheid; integrale aanpak met partners.
+      • Pijler 4 (fijne woning): Maarten Oomes (bestuurder PreWonen) –
+        verduurzaming, leefbaarheid, samenwerking.
+      • Pijler 5 (leefbare wijken): Marco Dalpra (community builder) –
+        bewonersinitiatieven, eigenaarschap, samenwerking gemeente/
+        corporaties.
+    - Inclusief praktische informatie: contactpersonen, telefoonnummers,
+      locaties, beschikbaarheid.
+    - Aandachtspunten: diversiteit in beeld, variatie in problemen en
+      oplossingen, borging integrale samenwerking.
+  thema’s:
+    - communicatie
+    - participatie
+    - sociaal
+    - veiligheid
+    - wonen
+  trefwoorden:
+    - matrix
+    - interviews
+    - pijlers
+    - productieplanning
+    - quotes
+    - Sterk IJmond
+  relevantie: "Essentieel productie- en inhoudsdocument voor de video; legt afspraken vast en zorgt voor evenwichtige en representatieve inhoud."
+  link: "20250826 IJmond_matrix inhoud-afspraken video.pdf"
+- id: DOC012
+  titel: "Plan van Aanpak Stedelijke Vernieuwing IJmond"
+  type: "beleidsdocument"
+  datum: "2025-07-25"
+  bron: "Gemeenten IJmond"
+  gewicht: "zeer hoog"
+  samenvatting: |
+    Beleidsmatig fundament voor stedelijke vernieuwing in de IJmond. 
+    Document beschrijft visie, opgaven, ambities en organisatie van de 
+    samenwerking tussen gemeenten, corporaties, welzijnsorganisaties, 
+    onderwijs en bedrijven. 
+    Kernopgaven:
+      - Beperkt ontwikkelperspectief (onderwijs, werk, armoede, kansengelijkheid).
+      - Criminaliteit en overlast (jeugdcriminaliteit, sociale problematiek, veiligheid).
+      - Gezondheidsachterstanden (fysieke en mentale gezondheid, impact industrie).
+      - Verouderde woningvoorraad (naoorlogse woningen, slechte isolatie, renovatie).
+      - Versteende openbare ruimte (weinig groen, hittestress, klimaatadaptatie).
+    Belangrijke onderdelen:
+      - Randvoorwaarden: bereikbaarheid, nieuwe woongebieden, economische infrastructuur.
+      - Doelstellingen en streefwaarden richting 2040–2045 per opgave.
+      - Organisatie: programmabureau stedelijke vernieuwing, bestuurlijke stuurgroep,
+        gezamenlijk subsidiebureau, mogelijke fondsvorming.
+      - Communicatie: altijd namens de drie gemeenten, met gebruik van uniforme formats.
+      - Monitoring: jaarlijkse rapportage en indicatoren (‘Stedelijke Vernieuwing IJmond in cijfers’).
+      - Planning: 2026 PACT, 2027 programmabureau ingericht, 2035 eerste effecten zichtbaar,
+        2040 resultaten IJmondlint, 2045 resultaten gehele IJmond.
+    Document fungeert als basis en richtinggevend kader voor alle projecten en communicatie.
+  thema’s:
+    - stedelijke vernieuwing
+    - beleid
+    - samenwerking
+    - sociaal
+    - wonen
+    - gezondheid
+    - veiligheid
+    - leefomgeving
+  trefwoorden:
+    - plan van aanpak
+    - IJmondlint
+    - programmabureau
+    - kernopgaven
+    - visie
+    - ambities
+  relevantie: "Strategisch hoofddocument; vormt beleidsmatige basis voor de gehele stedelijke vernieuwing en communicatie."
+  link: "20250725_Tekst PvA.pdf"
+- id: DOC013
+  titel: "Sfeer- en aanpaknotitie video Regio IJmond"
+  type: "conceptnotitie"
+  datum: "2025-09-05"
+  bron: "Beaumont Communicatie + projectteam IJmond"
+  gewicht: "zeer hoog"
+  samenvatting: |
+    Notitie met toelichting op sfeer, aanpak en stijl voor de projectvideo
+    Stedelijke Vernieuwing IJmond. Belangrijkste onderdelen:
+    - Doel: boodschap tijdens brede bijeenkomst helder en voelbaar overbrengen,
+      met nadruk op menselijke maat en integrale samenwerking.
+    - Aanpak: vijf korte interviews met stakeholders uit diverse domeinen en
+      gemeenten; concrete praktijkvoorbeelden; nadruk op urgentie en samenwerking.
+    - Ingrediënten: herkenbare menselijke ervaring, bredere samenhang, call to action.
+    - Mogelijke geïnterviewden: schooldirecteur, huismeester, GGD-medewerker,
+      verbinders uit onderwijs, bedrijfsleven, cultuur en arbeidsmarkt.
+    - Visuele stijl en toon (belangrijk voor productie en communicatie):
+      puur, ongepolijst, authentiek, intiem, echt, emotioneel, oprecht,
+      direct, zonder opsmuk, uit het hart, menselijk, in het moment, eerlijk.
+    - Storytelling: begin bij oplossing/resultaat en zoom daarna uit naar probleem
+      (om de burger als handelende persoon neer te zetten en hoopvol perspectief
+      te schetsen).
+    - Overwegingen: risico dat een te negatieve insteek de gemeente neerzet als
+      ‘probleemhouder’; balans nodig tussen urgentie en hoopvol perspectief.
+    - Werkwijze: projectteam regelt geïnterviewden; Beaumont bereidt inhoud voor
+      en begeleidt interviews en montage. Twee dagen opname, per locatie.
+    - Output: losse video’s per onderdeel + montage tot 1 hoofdfilm met intro/outro.
+    - Opmerkingen projectteam (Sicko, Edith): 
+      • rekening houden met brede doelgroep (inwoners, raden, stakeholders),
+        • problemen tonen in relatie tot oplossingen,
+        • constructieve verhaallijn,
+        • visuele symbolen koppelen aan oplossingen,
+        • gebruik maken van verbindende personen uit de regio.
+  thema’s:
+    - communicatie
+    - participatie
+    - strategie
+    - storytelling
+    - stijl
+  trefwoorden:
+    - sfeer
+    - aanpak
+    - storytelling
+    - menselijke maat
+    - tone of voice
+    - visuele stijl
+    - interviews
+  relevantie: "Bepaalt de tone of voice en stijl van de projectvideo; richtinggevend document voor alle productie en communicatie."
+  link: "20250905 Regio IJmond-sfeer-toelichting-aanpak video.pdf"
+- id: DOC014
+  titel: "Notities overleg projectvideo Stedelijke Vernieuwing IJmond"
+  type: "overlegnotities"
+  datum: "2025-08-25"
+  bron: "Projectteam Stedelijke Vernieuwing IJmond + Beaumont"
+  gewicht: "laag"
+  samenvatting: |
+    Werknotities uit overleg over de projectvideo. Belangrijkste punten:
+    - Twijfel: lancering video nu of in een latere fase?
+    - Doel bijeenkomst: perspectief bieden dat samenwerking effectiever maakt.
+    - Idee: voice-over toevoegen voor context en urgentie (stapeling problemen,
+      herkenbare beelden: schimmelwoning, wachtkamer huisarts, dakloosheid).
+    - Kern: hart van mensen raken, urgentie én hoop tonen.
+    - Voor elke pijler een voorbeeld noemen (bv. arbeidsmigrant die geen
+      taalles kan krijgen).
+    - Opbouw voorstel:
+      1. Droom noemen
+      2. Problemen kort in beeld brengen
+      3. Belofte van inspiratie en hoop (touwtje uit brievenbus).
+    - Voorwaarden: diversiteit, voorbeelden uit alle gemeenten, mix van mensen.
+    - Afspraken:
+      • Team levert lijst met namen en contactgegevens (maandag).
+      • Gemeenten regelen geïnterviewden, vrijwaringsverklaringen en planning.
+      • Beaumont begeleidt opnames.
+  thema’s:
+    - communicatie
+    - strategie
+    - participatie
+    - video
+  trefwoorden:
+    - overlegnotities
+    - video-opbouw
+    - urgentie
+    - hoop
+    - voorbeelden
+    - afspraken
+  relevantie: "Ondersteunend document dat inzicht geeft in creatieve en strategische afwegingen voorafgaand aan de videoproductie."
+  link: "notities overleg 250825.pdf"
+- id: DOC015
+  titel: "Aantekeningen verbinders regio IJmond"
+  type: "achtergrondnotitie"
+  datum: "2025-09-20"
+  bron: "Projectteam / externe bronnen (RTV Seaport, Beverwijk Nieuws, WSP, OV IJmond)"
+  gewicht: "laag"
+  samenvatting: |
+    Notitie die voorbeelden bundelt van verbinders in de regio IJmond. Verbinders
+    zijn mensen die systeemwereld (overheid, instellingen, bedrijven) en leefwereld
+    (inwoners) bij elkaar brengen. 
+    Voorbeelden:
+    - Maarten Redeker (cultuur, Velsenaar van het Jaar 2024, Summer Park Sessions).
+    - Truus Zonneveld & Ina Zwart-Al (vrijwilligers, kunst & cultuur Beverwijk,
+      onderscheiden in 2024).
+    - Ayse Yilmaz (regionaal verbinder statushouders, arbeidsmarkt).
+    - Ruud Porck (verbinder onderwijs–bedrijfsleven, techniek en stages).
+    - Ton van der Scheer (voorzitter OV IJmond, brug tussen ondernemers,
+      gemeenten en onderwijs).
+    - Jan Boudesteijn (ondernemer, kwartiermaker Techport en GreenBiz IJmond).
+    Kern: deze verbinders opereren vaak buiten de politiek, maar weten met
+    creativiteit en diplomatie duurzame samenwerkingen tot stand te brengen.
+  thema’s:
+    - participatie
+    - samenwerking
+    - communicatie
+    - inspiratie
+  trefwoorden:
+    - verbinders
+    - leefwereld
+    - systeemwereld
+    - cultuur
+    - onderwijs
+    - ondernemers
+    - arbeidsmarkt
+    - duurzaamheid
+  relevantie: "Inspiratiedocument; kan dienen om geschikte gezichten of verhalen te selecteren voor communicatie en video."
+  link: "25240  regio ijmond - Aantekeningen bundelen video.md"
+- id: DOC016
+  titel: "Volksaard regio IJmond"
+  type: "achtergrondnotitie"
+  datum: "2025-09-20"
+  bron: "Projectteam / communicatieve analyse"
+  gewicht: "laag"
+  samenvatting: |
+    Notitie over culturele kenmerken en beeldvorming (‘volksaard’) van inwoners
+    in de IJmond (Beverwijk, Velsen, Heemskerk, IJmuiden). Het stuk benoemt
+    stereotypen en hun mogelijke rol in communicatie en beleid.
+    Kernpunten:
+    - Direct en nuchter: recht voor z’n raap, weinig opsmuk, eerlijk maar soms bot.
+    - Arbeidersmentaliteit: hard werken, praktisch, trots op arbeid meer dan status.
+    - Trots en eigenzinnig: sterk gevoel van identiteit, wantrouwen tegen ‘buitenstaanders’.
+    - Sociaal en solidair: sterk buurtgevoel, helpen elkaar in de praktijk.
+    - Weinig vertrouwen in abstract beleid: voorkeur voor concreet, eerlijk en zichtbaar resultaat.
+    - Identificatie met zee en industrie: trots op visserij, haven en Hoogovens (Tata Steel).
+    Implicaties:
+    - Vermijd jargon; wees eerlijk over dilemma’s.
+    - Waardeer praktische kennis en lokale trots.
+    - Ben zichtbaar en persoonlijk aanwezig in de wijken.
+  thema’s:
+    - communicatie
+    - cultuur
+    - participatie
+  trefwoorden:
+    - volksaard
+    - identiteit
+    - trots
+    - directheid
+    - arbeidersmentaliteit
+    - zee
+    - Tata Steel
+  relevantie: "Ondersteunend document voor communicatiestrategie en framing; helpt bij toonzetting richting inwoners en lokale partners."
+  link: "25240  regio ijmond - Volksaard regio IJmond.md"
+
+
+
+
 
 
 
